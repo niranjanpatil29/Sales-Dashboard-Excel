@@ -6,7 +6,7 @@ In this Excel data analysis project, I have created a comprehensive Sales Dashbo
 
 ## Dashboard Components
 
-### 1. **Sales by Category - Pie Chart**
+### 1. **Sales by Category -  Funnel Chart**
 
    - Visualizes the distribution of sales across different product categories.
    - Helps identify which categories contribute the most to overall sales.
@@ -16,12 +16,12 @@ In this Excel data analysis project, I have created a comprehensive Sales Dashbo
    - Displays the trend of profit over a specified time period.
    - Provides insights into the overall profitability and identifies trends and patterns.
 
-### 3. **Monthly Sales - Bar Chart**
+### 3. **Monthly Sales - Area Chart**
 
    - Illustrates the monthly sales performance.
    - Enables a quick comparison of sales figures month by month.
 
-### 4. **Top 5 Customers Making Profit - Funnel Chart**
+### 4. **Top 5 Customers Making Profit - Pie Chart**
 
    - Highlights the top 5 customers contributing the most to the overall profit.
    - Visualizes the customer hierarchy in terms of profitability.
@@ -31,7 +31,7 @@ In this Excel data analysis project, I have created a comprehensive Sales Dashbo
    - Utilizes a map chart to represent sales geographically by state.
    - Offers a geographical perspective on sales distribution.
 
-### 6. **Customer Count - Area Chart**
+### 6. **Customer Count - Bar Chart**
 
    - Depicts the growth or decline in the customer count over time.
    - Assists in understanding the customer base dynamics.
