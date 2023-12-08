@@ -35,6 +35,9 @@ In this Excel data analysis project, I have created a comprehensive Sales Dashbo
 
    - Depicts the growth or decline in the customer count over time.
    - Assists in understanding the customer base dynamics.
+     <br>
+
+![Sales-Dashboard](https://github.com/niranjanpatil29/Sales-Dashboard-Excel/assets/115970117/35159979-6418-4afb-b1d6-68611c7e07f0)
 
 ## How to Use the Dashboard
 
